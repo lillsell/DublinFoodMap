@@ -1,1 +1,1 @@
-# DublinFoodMap
+This is my final project map for the class GHY 4818, otherwise known as WebMapping. It is an interactive map of central Dublin's best food spots, based on the article "All the Best Restaurants for Foodies in Dublin" from the Traverse Blog website.Me and my family are about to travel to Dublin as a part of my graduation trip, so I thought this would be a fun test of my skills while being very relevant to what's on my mind recently.
